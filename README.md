@@ -34,9 +34,38 @@ Here are some ideas to get you started:
 💬 Ask me about Tax Fraud  <br>
 🌱 I’m studying T-Level Digital at <a href="https://ccn.ac.uk">CCN</a>  <br>
   </p>
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=UKMysterrr&theme=react&show_icons=true&count_private=true">
-</p>
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UKMysterrr&layout=compact&theme=react&count_private=true">
-</p>
+
+```php
+<?php
+
+namespace MitchellDocherty;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => NULL,
+                'position' => NULL         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Python::class,
+            Java::class,
+            CPP::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To live a life of extreme sports, and code something essential.';
+    }
+}
+```
