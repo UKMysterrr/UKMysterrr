@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 🌱 I’m studying T-Level Digital at <a href="https://ccn.ac.uk">CCN</a>  <br>
   </p>
 
-```php
-<?php
-
+```
 namespace MitchellDocherty;
 
 class About extends Me
