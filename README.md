@@ -59,6 +59,7 @@ class About extends Me
             Python::class,
             Java::class,
             CPP::class,
+            Swag::class,
         ];
     }
 
