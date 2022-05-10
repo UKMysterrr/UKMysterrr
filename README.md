@@ -64,7 +64,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'To live a life of extreme sports, and code something essential.';
+        return 'Find a life enjoying the work you do.';
     }
 }
 ?>
