@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Mitch - Biggest Swag On Da Block</h1>  
+<h1 align="center">Mitch - 😭😭💀💀</h1>  
   
 <p align='center'>
   
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;-->
  </p>
  <p align="center">
-  😄 Pronoun: Big Money <br>
-💬 Ask me about Tax Fraud  <br>
+💬 Ask me about Industrial Society and Its Future  <br>
 🌱 I’m studying T-Level Digital at <a href="https://ccn.ac.uk">CCN</a>  <br>
   </p>
 
