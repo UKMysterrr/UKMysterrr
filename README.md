@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  </p>
  <p align="center">
 💬 Ask me about Industrial Society and Its Future  <br>
-🌱 I’m studying T-Level Digital at <a href="https://ccn.ac.uk">CCN</a>  <br>
+🌱 Network Engineering Student <br>
   </p>
 
 ```php
@@ -58,7 +58,6 @@ class About extends Me
             Python::class,
             Java::class,
             CPP::class,
-            Swag::class,
         ];
     }
 
