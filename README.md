@@ -50,17 +50,6 @@ class About extends Me
         ];
     }
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Python::class,
-            Java::class,
-            CPP::class,
-        ];
-    }
-
     public function getFutureGoal(): string
     {
         return 'Find a life enjoying the work you do.';
