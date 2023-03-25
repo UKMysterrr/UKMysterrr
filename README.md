@@ -49,7 +49,7 @@ class About extends Me
         'JavaScript',
         'JSX',
         'React'
-        ]
+        ];
         return [
             'workplace' => [
                 'company' => NULL,
