@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  </p>
  <p align="center">
 💬 Ask me about Industrial Society and Its Future  <br>
-🌱 Network Engineering Student <br>
+🌱 Full-Stack Web Dev Student <br>
   </p>
 
 ```php
@@ -42,6 +42,14 @@ class About extends Me
 {
     public function getCurrentWorkplace(): array
     {
+        const langageList = 
+        [
+        'Python',
+        'Java',
+        'JavaScript',
+        'JSX',
+        'React'
+        ]
         return [
             'workplace' => [
                 'company' => NULL,
